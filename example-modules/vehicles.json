@@ -1,0 +1,58 @@
+{
+    "vehicles": [
+        {
+            "make": "Toyota",
+            "model": "Camry",
+            "year": 2022,
+            "color": "White",
+            "price": 25000,
+            "transmission": "Automatic",
+            "mileage": 15000
+        },
+        {
+            "make": "Honda",
+            "model": "Civic",
+            "year": 2020,
+            "color": "Black",
+            "price": 20000,
+            "transmission": "Manual",
+            "mileage": 20000
+        },
+        {
+            "make": "Ford",
+            "model": "F-150",
+            "year": 2021,
+            "color": "Blue",
+            "price": 35000,
+            "transmission": "Automatic",
+            "mileage": 10000
+        },
+        {
+            "make": "Audi",
+            "model": "A4",
+            "year": 2020,
+            "color": "Black",
+            "price": 40000,
+            "transmission": "Automatic",
+            "mileage": 25000
+        },
+        {
+            "make": "Mercedes-Benz",
+            "model": "C-Class",
+            "year": 2021,
+            "color": "White",
+            "price": 50000,
+            "transmission": "Automatic",
+            "mileage": 18000
+        },
+        {
+            "make": "Lexus",
+            "model": "RX",
+            "year": 2022,
+            "color": "Blue",
+            "price": 55000,
+            "transmission": "Automatic",
+            "mileage": 12000
+        }
+    ]
+}

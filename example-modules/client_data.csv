@@ -1,0 +1,8 @@
+id,first_name,last_name,email,phone,city,country
+1,John,Doe,john.doe@example.com,123-456-7890,New York,USA
+2,Jane,Smith,jane.smith@example.com,987-654-3210,Los Angeles,USA
+3,Alice,Johnson,alice.johnson@example.com,555-555-5555,Chicago,USA
+4,Michael,Brown,michael.brown@example.com,111-222-3333,Miami,USA
+5,Emily,Miller,emily.miller@example.com,444-444-4444,San Francisco,USA
+6,Bazyli,Chodor,baz.chodor@gmail.com,123123123,Poznań,Polska
+7,Janusz,Kowalski,jkowalski@gmail.com,123123123123,Waraszawa,Polska

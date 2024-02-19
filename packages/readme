@@ -1,0 +1,1 @@
+When you create a folder with python code, you might want to add an empty __init__.py file, to make sure that python sees it as a package !
