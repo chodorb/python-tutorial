@@ -1,5 +1,5 @@
 class Client:
-    def __init__(self, first_name, last_name, money_spent=0.0, items_purchased=0, cart={"rower":500}, is_premium=False):
+    def __init__(self, first_name, last_name, money_spent=0.0, items_purchased=0, cart={"bike":500}, is_premium=False):
         self.first_name = first_name
         self.last_name = last_name
         self.money_spent = money_spent
@@ -47,10 +47,10 @@ print(float(c1))
 # __bool__
 print(bool(c1))
 # __getitem__
-print(c1["rower"])
+print(c1["bike"])
 # __setitem__
-c1["konsola"] = 500
-c1["telefon"] = 1200
+c1["gaming console"] = 500
+c1["iphone"] = 1200
 # __iter__
 for product in c1:
     print(product)
